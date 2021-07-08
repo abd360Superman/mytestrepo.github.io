@@ -1,0 +1,15 @@
+// console.log("MathTools.exponent output with base of 10 and exponent of 5: " + MathTools.exponent(10, 5));
+// console.log("MathTools.tetration output with base 2 and tetration 3: " + MathTools.tetration(2, 3));
+// console.log("MathTools.fractionToPercent output with numerator of 5 and denominator of 10: " + MathTools.fractionToPercent(5, 10));
+// console.log("MathTools.decimalToPercent output with decimal of 0.5: " + MathTools.decimalToPercent(0.5));
+// console.log("MathTools.percentToDecimal output with percent value of 50: " + MathTools.percentToDecimal(50));
+// console.log("MathTools.fibonacci output with showing tenth number in the series, with fNum being 7 and sNum being 10: " + MathTools.fibonacci(10, 7, 10));
+// console.log("MathTools.prime output with start being 5 and end being 110: " + MathTools.prime(5, 110));
+// console.log("MathTools.reverse output with x being 1234: " + MathTools.reverse(1234));
+// console.log("MathTools.checkOddEven output with x being 123: " + MathTools.checkOddEven(123));
+// console.log("MathTools.integerDivision output with dividend being 20 and divisor being 3: " + MathTools.integerDivision(20, 3));
+// console.log("MathTools.factors output with x being 30: " + MathTools.factors(30));
+// console.log("MathTools.primeFactors output with x being 30: " + MathTools.primeFactors(30));
+// console.log("MathTools.sakanacci output with x being 1 and iterations being 12: " + MathTools.sakanacci(1, 12));
+console.log("MathTools.a2_plus_b2 output with a being 3 and b being 4: " + MathTools.a2_plus_b2(3, 4));
+// console.log('MathTools.a2_minus_b2 output with a being 8 and b being 7: ' + MathTools.a2_minus_b2(8, 7));
